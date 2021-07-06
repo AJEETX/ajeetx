@@ -5,33 +5,23 @@
 
 - 🔭 I’m currently working on ASP.NET Core 5, shopping cart
 - 🌱 I’m currently learning mobile app development
-- 💬 Ask me about ASP.NET Core, C#, Design patterns, application architecture design
+- 💬 Ask me about ASP.NET Core, C#, Design patterns, application architecture design, Reactive programming
 
 ### 🤝 Connect with me:
 
 - 📫 How to reach me: [ajeetx@email.com](mailto:ajeetx@email.com)
  
+
+<br />
+
+
 [<img align="left" alt="ajeetx | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
-
----
-
-### 👨‍💻 Languages and Tools
-
-- [website](https://github.com/ajeetx)
-
 <br />
 
 ---
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [website](https://github.com/ajeetx)
-<!-- BLOG-POST-LIST:END -->
-
-
+<br />
 
 [![Ajeet's github stats](https://github-readme-stats.vercel.app/api?username=ajeetx&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/ajeetx/github-readme-stats)
 
