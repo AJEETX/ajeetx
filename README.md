@@ -3,8 +3,8 @@
 
 ### Architect | Trainer | Passionate Programmer
 
-- 🔭 I’m currently working on ASP.NET Core 5, shopping cart
-- 🌱 I’m currently learning mobile app development
+- 🔭 I’m currently working on .NET8, onboarding verification system [icheckify](https://icheckify.co.in)
+- 🌱 I’m currently learning mobile app development 
 - 💬 Ask me about ASP.NET Core, C#, Design patterns, application architecture design, Reactive programming
 
 ### 🤝 Connect with me:
