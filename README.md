@@ -3,7 +3,7 @@
 
 ### Architect | Trainer | Passionate Programmer
 
-- 🔭 I’m currently working on .NET8, onboarding verification system [icheckify](https://icheckify.co.in)
+- 🔭 I’m currently working on .NET8, onboarding verification system
 - 🌱 I’m currently learning mobile app development 
 - 💬 Ask me about ASP.NET Core, C#, Design patterns, application architecture design, Reactive programming
 
